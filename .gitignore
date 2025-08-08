@@ -1,0 +1,87 @@
+# Archivos y carpetas generadas por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de configuración de Unity Collaborate
+.collabignore
+
+# Herramientas de la Asset Store
+AssetStoreTools*
+
+# Archivos generados del sistema
+sysinfo.txt
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos temporales y de respaldo
+*.tmp
+*.bak
+*.swp
+
+# Archivos generados por Unity
+*.booproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.opendb
+
+# Archivos de solución y proyectos (se regeneran)
+*.sln
+*.csproj
+*.tmproj
+
+# Archivos binarios y compilados
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.VC.db
+
+# Archivos multimedia pesados (pueden ir a Git LFS)
+*.psd
+*.fbx
+*.mp4
+*.mov
+*.avi
+*.asf
+*.asx
+*.wmv
+*.mp3
+*.ogg
+*.aiff
+*.aif
+*.wav
+
+# Imágenes y texturas
+*.gif
+*.ico
+*.jpg
+*.jpeg
+*.png
+*.tga
+*.tif
+*.tiff
+
+# Modelos 3D y escenas
+*.3ds
+*.dxf
+*.lwo
+*.lws
+*.max
+*.mb
+*.obj
+*.dae
+
+# Otros documentos pesados o no esenciales
+*.pdf
+*.mid
+*.midi

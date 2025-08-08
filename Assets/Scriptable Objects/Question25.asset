@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2058b560a24e1fc4d8f5c99fbef58176, type: 3}
+  m_Name: Question25
+  m_EditorClassIdentifier: 
+  message: "\xBFQui\xE9n secuestra a Elizabeth en la pel\xEDcula \u201CPiratas del
+    Carible: la maldici\xF3n de la Perla Negra?"
+  correctOption: Hector Barbossa
+  incorrectOption: James Norrington
